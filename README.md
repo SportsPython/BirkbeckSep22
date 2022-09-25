@@ -1,27 +1,12 @@
-# JupyterLite Demo
-
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
-
-➡️ **https://jupyterlite.github.io/demo**
+# Intro to Coding for the Sports industry workshop at Birkbeck, University of London on 28/9/22
+## Click on the link below to access the ustom jupyterlite as the computational environment alongside the workshop code notebooks and data:
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/birkbeck_sep22)
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+JupyterLite requires one of the following modern web browsers:
 
 - Firefox 90+
 - Chromium 89+
 
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+Use the normal window, i.e. not a private/wnonymous window (known performance issues e.g. https://github.com/jupyterlite/jupyterlite/issues/679).
