@@ -1,6 +1,6 @@
 # Intro to Coding for the Sports industry workshop at Birkbeck, University of London on 28/9/22
 ## Click on the link below to access the ustom jupyterlite as the computational environment alongside the workshop code notebooks and data:
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/birkbecksep22)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/BirkbeckSep22)
 
 ---
 
