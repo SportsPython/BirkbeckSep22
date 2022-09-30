@@ -21,3 +21,8 @@ Use the normal window, i.e. `New Window` not a `New Private Window` or other ano
 * Use shift+enter to run code cells
 * Use tab for auto-completion options
 * Try shift+tab whilst writing a function to bring up it's documentation (may or may not work in Deepnote)
+
+
+## Data Documentation
+
+* The dataset coordinates are based on a 2D pitch positioned landscape with length 105 units (x-axis) by height 68 units (y-axis). The data shows Arsenal and Man U events as if they were attacking opposite goals, and attacking these same goals for the whole match/i.e. no change between the two halves. Arsenal data reflects them attacking the goal to the right i.e. at 105 units/max of the x-axis, with Man U data conversely reflecting them attacking the goal to the left, i.e. at 0m the minimum of the x-axis. This is for consistency across both halves of the match to remove the need to re-calculate coordinates to account for a team's change of ends. You may still want to align the coordinates for both teams for adjusting one team's data by replacing it with the inverse values, for example if wanting to compare positions between the two teams' attacks on goal etc.
