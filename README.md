@@ -3,6 +3,8 @@
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/BirkbeckSep22)
 
 ---
+## Device Compatibility
+* In theory, the custom jupyterlite should work on any device which meets the Browser Requirements, e.g. tablet, mobile. A laptop or desktop, where possible, is recommended however, for both performance and user experience.
 
 ## Browser Requirements
 
