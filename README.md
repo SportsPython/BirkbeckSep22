@@ -29,7 +29,7 @@ Use the normal window, i.e. `New Window` not a `New Private Window` or other ano
 * The Sports Marketing content illustrates examples of Social Listening on Twitter for business insights into e.g. individual athletes, teams, brands etc., in this case centered on England Women midfield Keira Walsh's transfer from Man City to Barcelona in Sep '22.
 
 
-## Data Documentation
+## Documentation of the `match_events.csv` data
 
 * The dataset coordinates are based on a 2D pitch positioned landscape with length 105 units (x-axis) by height 68 units (y-axis), and a coordinate system where (0,0) is bottom-right. The data shows Arsenal and Man U events as if they were attacking opposite goals, and attacking these same goals for the whole match/i.e. no change between the two halves. Arsenal data reflects them attacking the goal to the right i.e. at 105 units/max of the x-axis, with Man U data conversely reflecting them attacking the goal to the left, i.e. at 0m the minimum of the x-axis. This is for consistency across both halves of the match to remove the need to re-calculate coordinates to account for a team's change of ends. You may still want to align the coordinates for both teams for adjusting one team's data by replacing it with the inverse values, for example if wanting to compare positions between the two teams' attacks on goal etc.
 
