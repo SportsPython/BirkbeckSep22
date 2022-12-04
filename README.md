@@ -1,5 +1,5 @@
 # Intro to Coding for the Sports industry workshop at Birkbeck, University of London on 28/9/22
-**Workshop event descriotion is available from Birkbeck's Department of Computer Science [website](https://www.dcs.bbk.ac.uk/news/workshop-introduction-to-coding-for-the-sports-industry/).**
+**Workshop event description is available from Birkbeck's Department of Computer Science [website](https://www.dcs.bbk.ac.uk/news/workshop-introduction-to-coding-for-the-sports-industry/).**
     
 **Click on the link below to access the custom jupyterlite as the computational environment alongside the workshop code notebooks and data, or copy https://sportspython.github.io/BirkbeckSep22 into an appropriate browser:**
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://sportspython.github.io/BirkbeckSep22)
